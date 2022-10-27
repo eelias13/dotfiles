@@ -7,6 +7,10 @@
   insteadOf = https://bitbucket.org/
 [url "git@gist.github.com:"]
     insteadOf = https://gist.github.com/
+[url "git@gitlab.inf.uni-konstanz.de:"]
+  insteadOf = https://gitlab.inf.uni-konstanz.de/
+  
+# Set User
 [user]
-	email = maierelias13@gmai.com
-	name = Elias Maier
+        email = maierelias13@gmai.com
+        name = Elias Maier
