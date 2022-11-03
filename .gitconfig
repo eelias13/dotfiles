@@ -9,6 +9,8 @@
     insteadOf = https://gist.github.com/
 [url "git@gitlab.inf.uni-konstanz.de:"]
   insteadOf = https://gitlab.inf.uni-konstanz.de/
+[url "ssh://git@gitlab.dbvis.de:2222/"]
+  insteadOf = https://gitlab.dbvis.de/
   
 # Set User
 [user]
