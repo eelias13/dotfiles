@@ -15,6 +15,6 @@
   email = maierelias13@gmail.com
   name = elias
 [core]
-        autocrlf = input
+  autocrlf = input
 [pull]
-        rebase = true
+  rebase = true
